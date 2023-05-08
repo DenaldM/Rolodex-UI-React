@@ -13,3 +13,11 @@ body {
   );
   text-align: center;
 }
+
+.app-title {
+  margin: 75px 0 50px 0;
+  font-size: 76px;
+  color: #0ccac4;
+  text-transform: capitalize;
+  font-family: "Audiowide", sans-serif;
+}
